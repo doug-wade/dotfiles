@@ -1,0 +1,11 @@
+[user]
+	name = Doug Wade
+	email = douglas.b.wade@gmail.com
+[push]
+	default = current
+[credential]
+	helper = osxkeychain
+[alias]
+	co = checkout
+[core]
+	editor = /usr/bin/vim
